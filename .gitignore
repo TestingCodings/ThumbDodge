@@ -1,0 +1,35 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+Assets/AssetStoreTools*
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Addressables / Packages cache
+[Aa]ssets/AddressableAssetsData/*.bin
+[Aa]ssets/StreamingAssets/aa/*
+Packages/packages-lock.json
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.swp
+
+# Crash & profiler
+sysinfo.txt
+*.stacktrace
+*.crash
